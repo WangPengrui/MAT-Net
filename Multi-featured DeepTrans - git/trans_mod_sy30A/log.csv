@@ -1,2 +1,0 @@
-Seed: 1, LR: 0.002, WD: 5e-05, num_heads: 10, beta: 0, gamma: 1, RE: 0.0082, SAD: 0.0187, RMSE: 0.0627
-Seed: 57207880, LR: 0.002, WD: 5e-05, num_heads: 10, beta: 0, gamma: 1, RE: 0.0045, SAD: 0.0079, RMSE: 0.0243

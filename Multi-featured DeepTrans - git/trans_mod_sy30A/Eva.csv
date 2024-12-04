@@ -1,4 +1,0 @@
-Seed,LR,EPOCH,num_heads,beta,gamma,weight_decay_param,,RE,SAD,RMSE,Time
-1,0.002,400,10,0,1,5e-05,,0.00818,0.01867,0.06274,17.78351
-Seed,LR,EPOCH,num_heads,beta,gamma,weight_decay_param,,RE,SAD,RMSE,Time
-57207880,0.002,400,10,0,1,5e-05,,0.00445,0.00791,0.02431,15.16172
